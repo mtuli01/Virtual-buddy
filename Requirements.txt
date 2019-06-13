@@ -1,0 +1,19 @@
+Things Required for the code to execute>
+SpeechRecognition
+pip install speechRecognition
+
+pyttsx
+pip install pyttsx3
+
+pyaudio
+pip install pyaudio
+
+wikipedia
+pip install wikipedia
+
+google
+pip insyall google
+pip install google-cloud    
+pip install google-cloud-vision
+
+ 
